@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cc84aca5-bf1d-4c9d-a7ab-4ef0fffc1fe0": {
+      "ProjectGuid": "cc84aca5-bf1d-4c9d-a7ab-4ef0fffc1fe0",
+      "DisplayName": "WeaponAPI",
+      "ColorIndex": 0
+    },
+    "28781bda-a5bf-4da7-b3ed-499dd7a09804": {
+      "ProjectGuid": "28781bda-a5bf-4da7-b3ed-499dd7a09804",
+      "DisplayName": "Common",
+      "ColorIndex": 1
+    },
+    "f5b4d43c-fbb7-49dd-bb48-0e5ce8bb5e72": {
+      "ProjectGuid": "f5b4d43c-fbb7-49dd-bb48-0e5ce8bb5e72",
+      "DisplayName": "Proxy",
+      "ColorIndex": 2
+    },
+    "f5550bca-956f-4ade-bbaf-fa783690c07d": {
+      "ProjectGuid": "f5550bca-956f-4ade-bbaf-fa783690c07d",
+      "DisplayName": "SyncNode",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
